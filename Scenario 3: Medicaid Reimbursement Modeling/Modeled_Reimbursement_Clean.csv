@@ -1,0 +1,6 @@
+Service Category,Paid Amount,Adjusted Rate Multiplier,Target Reimbursement Rate,Simulated Paid Amount,Fiscal Impact,% Change in Spend
+Primary Care,120000,1.0,0.85,102000.0,-18000.0,-0.15
+Emergency,200000,1.0,0.85,170000.0,-30000.0,-0.15
+Behavioral Health,95000,1.0,0.85,80750.0,-14250.0,-0.15
+Dental,60000,1.0,0.85,51000.0,-9000.0,-0.15
+Specialty Care,110000,1.0,0.85,93500.0,-16500.0,-0.15
