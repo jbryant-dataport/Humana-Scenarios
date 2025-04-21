@@ -25,8 +25,9 @@ This Tableau dashboard helps internal stakeholders:
 - Identify which measures or service areas are lagging  
 - Prioritize improvement efforts on underperforming categories  
 
-## 🔗 Dashboard Link
-**[View the Tableau Dashboard on Tableau Public](https://public.tableau.com/app/profile/janine.bryant/viz/StateComplianceReportingAutomation/Dashboard1)**
+##🔗 Dashboard Link
+**[View the Tableau Dashboard on Tableau Public](https://public.tableau.com/app/profile/janine.bryant/viz/StateComplianceReportingAutomation/StateComplianceReportingSnapshot?publish=yes)**
+)**
 
 ## 📈 Key Insights
 - **KPI 1:** The current overall compliance rate is **51%**, significantly below target.  
