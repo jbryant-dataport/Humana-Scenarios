@@ -1,0 +1,101 @@
+Member_ID,Age_Group,Gender,County,Service_Category,Visit_Date,Provider_Type,Claim_Status,Compliance_Measure,Is_Compliant,Reporting_Month
+M333116,15–20,Male,Dallas,Preventive Care,2025-01-22,Specialist,Pending,Well-Child Visit,No,Feb 2025
+M725818,15–20,Male,Harris,Dental,2025-01-25,PCP,Paid,Lead Screening,Yes,Feb 2025
+M405493,0–5,Male,Harris,Preventive Care,2025-02-28,Behavioral Health Provider,Pending,Dental Exam,No,Feb 2025
+M441640,0–5,Female,Travis,Preventive Care,2025-04-17,Behavioral Health Provider,Pending,Well-Child Visit,No,Feb 2025
+M175197,6–14,Unknown,Harris,Mental Health,2025-02-28,Specialist,Denied,Dental Exam,No,Mar 2025
+M752336,0–5,Female,Tarrant,Mental Health,2025-03-10,Behavioral Health Provider,Paid,Well-Child Visit,Yes,Jan 2025
+M833382,0–5,Female,Travis,Mental Health,2025-02-07,PCP,Paid,Well-Child Visit,Yes,Jan 2025
+M538292,6–14,Male,Travis,Dental,2025-04-19,Specialist,Denied,Dental Exam,Yes,Mar 2025
+M494718,0–5,Female,Tarrant,Dental,2025-04-16,Specialist,Pending,Well-Child Visit,No,Mar 2025
+M574405,0–5,Female,Travis,Mental Health,2025-03-02,PCP,Paid,Dental Exam,Yes,Feb 2025
+M700015,0–5,Unknown,Bexar,Dental,2025-02-16,Behavioral Health Provider,Denied,Well-Child Visit,No,Feb 2025
+M524889,0–5,Female,Harris,Dental,2025-04-08,PCP,Pending,Well-Child Visit,Yes,Jan 2025
+M154905,6–14,Unknown,Bexar,Dental,2025-02-15,Specialist,Paid,Well-Child Visit,No,Mar 2025
+M838001,0–5,Unknown,Tarrant,Mental Health,2025-03-15,Specialist,Pending,Dental Exam,No,Jan 2025
+M357801,15–20,Male,Bexar,Mental Health,2025-02-09,Specialist,Paid,Well-Child Visit,Yes,Feb 2025
+M116964,0–5,Male,Tarrant,Mental Health,2025-03-16,PCP,Pending,Dental Exam,No,Feb 2025
+M817053,6–14,Male,Bexar,Preventive Care,2025-03-25,Behavioral Health Provider,Pending,Well-Child Visit,Yes,Jan 2025
+M697867,15–20,Unknown,Harris,Mental Health,2025-02-24,Specialist,Pending,Dental Exam,Yes,Jan 2025
+M924286,0–5,Unknown,Bexar,Mental Health,2025-02-05,PCP,Pending,Lead Screening,No,Feb 2025
+M814547,15–20,Unknown,Tarrant,Preventive Care,2025-04-04,Behavioral Health Provider,Pending,Well-Child Visit,No,Feb 2025
+M939420,15–20,Unknown,Dallas,Dental,2025-04-15,Behavioral Health Provider,Denied,Dental Exam,Yes,Jan 2025
+M707315,6–14,Female,Travis,Mental Health,2025-02-19,PCP,Denied,Lead Screening,Yes,Jan 2025
+M880591,0–5,Unknown,Dallas,Dental,2025-02-17,PCP,Pending,Well-Child Visit,Yes,Jan 2025
+M933138,6–14,Female,Travis,Mental Health,2025-04-06,Behavioral Health Provider,Pending,Well-Child Visit,No,Mar 2025
+M488725,15–20,Male,Travis,Dental,2025-03-13,Behavioral Health Provider,Denied,Well-Child Visit,No,Jan 2025
+M211096,15–20,Unknown,Harris,Preventive Care,2025-03-22,Behavioral Health Provider,Denied,Well-Child Visit,No,Jan 2025
+M979017,15–20,Male,Travis,Dental,2025-02-04,Behavioral Health Provider,Denied,Well-Child Visit,No,Mar 2025
+M654653,15–20,Unknown,Harris,Preventive Care,2025-03-24,Behavioral Health Provider,Denied,Lead Screening,Yes,Mar 2025
+M718634,6–14,Female,Travis,Preventive Care,2025-03-19,Behavioral Health Provider,Paid,Dental Exam,Yes,Feb 2025
+M573298,15–20,Male,Tarrant,Mental Health,2025-02-15,PCP,Paid,Dental Exam,Yes,Mar 2025
+M431567,6–14,Unknown,Tarrant,Dental,2025-02-03,Behavioral Health Provider,Pending,Dental Exam,Yes,Feb 2025
+M598583,15–20,Male,Harris,Dental,2025-03-11,Behavioral Health Provider,Paid,Dental Exam,No,Feb 2025
+M880823,0–5,Female,Harris,Dental,2025-03-01,PCP,Pending,Well-Child Visit,No,Jan 2025
+M423034,15–20,Female,Dallas,Preventive Care,2025-02-01,Specialist,Paid,Lead Screening,No,Mar 2025
+M603957,0–5,Female,Harris,Dental,2025-04-10,PCP,Denied,Well-Child Visit,Yes,Mar 2025
+M293613,0–5,Female,Travis,Preventive Care,2025-03-08,Behavioral Health Provider,Denied,Lead Screening,Yes,Feb 2025
+M437561,15–20,Unknown,Harris,Mental Health,2025-03-28,PCP,Denied,Lead Screening,Yes,Feb 2025
+M962384,15–20,Male,Bexar,Dental,2025-04-08,PCP,Denied,Dental Exam,No,Mar 2025
+M371850,6–14,Male,Travis,Preventive Care,2025-01-28,Specialist,Pending,Lead Screening,No,Jan 2025
+M575332,6–14,Female,Harris,Dental,2025-01-26,Behavioral Health Provider,Denied,Well-Child Visit,No,Mar 2025
+M550716,0–5,Male,Dallas,Dental,2025-04-03,Specialist,Pending,Dental Exam,Yes,Jan 2025
+M677979,6–14,Unknown,Tarrant,Dental,2025-03-06,Specialist,Paid,Well-Child Visit,Yes,Feb 2025
+M613068,15–20,Unknown,Bexar,Preventive Care,2025-03-20,Specialist,Paid,Well-Child Visit,No,Mar 2025
+M292216,6–14,Male,Travis,Mental Health,2025-04-07,Specialist,Paid,Well-Child Visit,No,Mar 2025
+M299014,0–5,Male,Harris,Dental,2025-03-09,PCP,Paid,Lead Screening,Yes,Feb 2025
+M837199,15–20,Female,Harris,Dental,2025-03-22,Specialist,Denied,Dental Exam,No,Jan 2025
+M493071,15–20,Male,Dallas,Dental,2025-02-11,Behavioral Health Provider,Pending,Lead Screening,Yes,Jan 2025
+M805276,6–14,Unknown,Dallas,Mental Health,2025-04-03,Behavioral Health Provider,Pending,Lead Screening,No,Jan 2025
+M179637,15–20,Male,Bexar,Dental,2025-04-17,PCP,Paid,Dental Exam,No,Feb 2025
+M798775,15–20,Unknown,Tarrant,Mental Health,2025-03-01,Specialist,Pending,Lead Screening,No,Jan 2025
+M471135,0–5,Male,Harris,Mental Health,2025-02-26,Behavioral Health Provider,Paid,Dental Exam,No,Mar 2025
+M669932,0–5,Male,Tarrant,Preventive Care,2025-04-13,Behavioral Health Provider,Pending,Lead Screening,No,Mar 2025
+M314129,0–5,Male,Dallas,Dental,2025-02-13,PCP,Denied,Dental Exam,No,Feb 2025
+M490651,6–14,Male,Harris,Dental,2025-03-13,PCP,Denied,Well-Child Visit,Yes,Mar 2025
+M812877,6–14,Male,Travis,Dental,2025-03-28,Behavioral Health Provider,Paid,Lead Screening,Yes,Feb 2025
+M843473,15–20,Female,Travis,Mental Health,2025-03-01,Specialist,Paid,Dental Exam,No,Feb 2025
+M769989,15–20,Unknown,Bexar,Preventive Care,2025-01-24,PCP,Pending,Dental Exam,No,Mar 2025
+M307357,15–20,Unknown,Tarrant,Dental,2025-04-09,PCP,Paid,Dental Exam,No,Jan 2025
+M280058,15–20,Male,Harris,Dental,2025-04-14,Specialist,Paid,Well-Child Visit,No,Jan 2025
+M534364,6–14,Female,Harris,Dental,2025-03-26,PCP,Paid,Lead Screening,No,Mar 2025
+M686947,6–14,Unknown,Tarrant,Mental Health,2025-02-03,PCP,Paid,Dental Exam,No,Jan 2025
+M709119,0–5,Female,Harris,Mental Health,2025-03-31,Specialist,Paid,Lead Screening,Yes,Mar 2025
+M341263,15–20,Unknown,Travis,Mental Health,2025-01-28,Specialist,Denied,Dental Exam,Yes,Jan 2025
+M486993,0–5,Male,Harris,Mental Health,2025-04-07,Behavioral Health Provider,Denied,Dental Exam,No,Jan 2025
+M727317,0–5,Unknown,Dallas,Dental,2025-02-10,Behavioral Health Provider,Denied,Lead Screening,Yes,Jan 2025
+M996632,15–20,Unknown,Travis,Mental Health,2025-03-31,Behavioral Health Provider,Pending,Dental Exam,Yes,Feb 2025
+M872312,15–20,Female,Harris,Dental,2025-03-02,Behavioral Health Provider,Pending,Dental Exam,Yes,Jan 2025
+M127672,0–5,Unknown,Bexar,Dental,2025-03-09,Specialist,Denied,Well-Child Visit,Yes,Feb 2025
+M319577,0–5,Male,Travis,Dental,2025-01-23,Behavioral Health Provider,Paid,Lead Screening,No,Jan 2025
+M440680,15–20,Female,Travis,Mental Health,2025-03-10,Behavioral Health Provider,Paid,Well-Child Visit,Yes,Jan 2025
+M416309,0–5,Unknown,Bexar,Preventive Care,2025-01-28,Behavioral Health Provider,Paid,Lead Screening,Yes,Feb 2025
+M140488,15–20,Female,Tarrant,Dental,2025-02-10,Behavioral Health Provider,Denied,Dental Exam,Yes,Feb 2025
+M482745,0–5,Unknown,Travis,Preventive Care,2025-03-25,Behavioral Health Provider,Paid,Lead Screening,Yes,Feb 2025
+M865953,0–5,Male,Tarrant,Dental,2025-01-24,Specialist,Denied,Lead Screening,Yes,Jan 2025
+M393909,15–20,Unknown,Dallas,Mental Health,2025-03-11,PCP,Paid,Lead Screening,No,Feb 2025
+M797117,15–20,Unknown,Harris,Dental,2025-04-03,Specialist,Pending,Well-Child Visit,Yes,Feb 2025
+M600289,0–5,Female,Travis,Dental,2025-02-04,Specialist,Pending,Dental Exam,No,Feb 2025
+M295413,0–5,Female,Bexar,Mental Health,2025-03-21,Specialist,Denied,Lead Screening,No,Jan 2025
+M398451,0–5,Unknown,Bexar,Mental Health,2025-01-29,PCP,Paid,Dental Exam,Yes,Mar 2025
+M718135,6–14,Female,Dallas,Dental,2025-04-16,PCP,Paid,Dental Exam,Yes,Feb 2025
+M902355,6–14,Female,Dallas,Preventive Care,2025-03-13,PCP,Denied,Lead Screening,Yes,Mar 2025
+M777417,15–20,Unknown,Travis,Dental,2025-01-28,Specialist,Denied,Dental Exam,Yes,Mar 2025
+M225520,6–14,Male,Dallas,Dental,2025-02-16,Behavioral Health Provider,Denied,Dental Exam,No,Feb 2025
+M972480,6–14,Female,Bexar,Preventive Care,2025-02-10,PCP,Denied,Well-Child Visit,No,Jan 2025
+M503680,6–14,Female,Dallas,Mental Health,2025-02-28,Behavioral Health Provider,Paid,Well-Child Visit,Yes,Jan 2025
+M893813,0–5,Unknown,Tarrant,Mental Health,2025-03-07,PCP,Pending,Lead Screening,Yes,Feb 2025
+M789190,6–14,Female,Bexar,Preventive Care,2025-02-07,PCP,Denied,Dental Exam,Yes,Mar 2025
+M791685,15–20,Unknown,Bexar,Mental Health,2025-02-12,Behavioral Health Provider,Paid,Lead Screening,Yes,Mar 2025
+M979761,6–14,Unknown,Bexar,Dental,2025-03-25,PCP,Pending,Lead Screening,No,Feb 2025
+M745768,0–5,Female,Bexar,Mental Health,2025-03-15,Specialist,Denied,Well-Child Visit,Yes,Jan 2025
+M349314,0–5,Female,Travis,Dental,2025-04-10,Specialist,Pending,Lead Screening,Yes,Jan 2025
+M527881,6–14,Unknown,Bexar,Preventive Care,2025-03-09,Specialist,Denied,Well-Child Visit,No,Mar 2025
+M201601,15–20,Female,Tarrant,Mental Health,2025-02-15,Specialist,Pending,Lead Screening,No,Feb 2025
+M506036,0–5,Female,Dallas,Dental,2025-03-02,PCP,Denied,Dental Exam,Yes,Jan 2025
+M607255,15–20,Male,Harris,Dental,2025-03-22,Behavioral Health Provider,Paid,Lead Screening,Yes,Jan 2025
+M612388,6–14,Unknown,Harris,Mental Health,2025-04-16,Specialist,Pending,Lead Screening,Yes,Mar 2025
+M634762,15–20,Male,Harris,Preventive Care,2025-03-03,Behavioral Health Provider,Paid,Lead Screening,No,Jan 2025
+M425253,0–5,Female,Tarrant,Dental,2025-01-31,PCP,Denied,Lead Screening,No,Feb 2025
+M489313,6–14,Female,Tarrant,Mental Health,2025-04-13,PCP,Pending,Dental Exam,No,Feb 2025
+M258978,15–20,Unknown,Bexar,Preventive Care,2025-02-12,PCP,Paid,Well-Child Visit,Yes,Mar 2025
