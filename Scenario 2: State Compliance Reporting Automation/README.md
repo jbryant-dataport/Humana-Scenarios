@@ -30,9 +30,9 @@ This Tableau dashboard helps internal stakeholders:
 )**
 
 ## 📈 Key Insights
-- **KPI 1:** The current overall compliance rate is **51%**, significantly below target.  
-- **KPI 2:** Several compliance measures fall below **50%**, pulling down aggregate performance.  
-- **KPI 3:** The **lowest-performing service category** has a compliance rate of just **41%**, while others exceed **54%** — suggesting an opportunity for targeted quality improvement.  
+- **Overall Compliance Rate:** The current overall compliance rate is **51%**, significantly below target.  
+- **Compliance Performance by Measure:** Several compliance measures fall below **50%**, pulling down aggregate performance.  
+- **Compliance Performance by Service Category:** The **lowest-performing service category** has a compliance rate of just **41%**, while others exceed **54%** — suggesting an opportunity for targeted quality improvement.  
 
 ## ✅ Recommendations
 - Prioritize quality improvement efforts on the **lowest-performing service category**.  
