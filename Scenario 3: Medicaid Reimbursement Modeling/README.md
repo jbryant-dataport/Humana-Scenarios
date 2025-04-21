@@ -1,48 +1,52 @@
-# Scenario 3: Medicaid Reimbursement Modeling  
+# 📊 Scenario 3: Medicaid Reimbursement Modeling
+
 **Visualizing the fiscal impact of simulated rate adjustments by service category**
 
-🔗 **Interactive Dashboard**: [View on Tableau Public](https://public.tableau.com/app/profile/your-username/viz/MedicaidRateModeling/Overview)  
-📄 **Source Data**: `Modeled_Reimbursement_Clean.csv`
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/janine.bryant/viz/MedicaidReimbursementModeling/ReimbursementModelingDashboard?publish=yes)
+
+📄 Source Data: `Modeled_Reimbursement_Clean.csv`
 
 ---
 
-## 🔍 Background Overview  
-State Medicaid programs regularly reevaluate provider reimbursement to ensure financial sustainability. This project models the impact of service-specific rate adjustments and compares current vs modeled paid amounts.
+## 🔍 Background Overview
 
-The goal: Help stakeholders explore the *fiscal impact of rate changes* across service categories like Emergency Room, Primary Care, and Behavioral Health.
+State Medicaid programs regularly reevaluate provider reimbursement rates to ensure long-term financial sustainability and access to care. This project models the financial impact of adjusting reimbursement rates across key service categories such as Emergency Room, Primary Care, Behavioral Health, and Dental.
+
+The goal of this dashboard is to simulate rate changes and estimate how they would affect total Medicaid paid amounts by service type.
 
 ---
 
 ## 📊 Dashboard Overview
 
-| KPI | Description |
-|-----|-------------|
-| **KPI 1 – Current Spend** | Shows current Medicaid paid amounts by service category |
-| **KPI 2 – Modeled Spend** | Illustrates paid amounts after simulated rate adjustments |
-| **KPI 3 – % Change in Spend** | Compares current vs. modeled spend to highlight change |
+This interactive dashboard displays total Medicaid spend by service category under current and simulated reimbursement scenarios. Users can select a new reimbursement rate using the dropdown control, and the dashboard dynamically updates to reflect projected paid amounts and fiscal impact.
 
-💬 *Dashboard subtitle: "Visualizing how simulated rate changes affect total spend by service category"*
-
----
-
-## 💡 Insights
-- **Behavioral Health** and **Primary Care** experienced the **largest increases** in modeled spend.
-- **Emergency Room** spending was reduced, simulating a policy scenario to reduce high-cost acute care.
-- **Dental** services remained flat, modeling no rate change.
+### Key Features:
+- **Side-by-side bar charts** show actual vs. simulated paid amounts by service category
+- A **dropdown parameter control** lets users adjust the reimbursement rate (e.g., 75%, 80%, 85%, etc.)
+- **Tooltips and labels** display fiscal impact (cost difference) for each category
 
 ---
 
-## ✅ Recommendations  
-- Use this model to simulate **future fiscal scenarios** before proposing rate changes.  
-- Layer in **utilization data** to model population growth and expected service volume.  
-- Leverage this view to advocate for **balanced rate policy**, especially in high-growth or high-cost areas.
+## 📈 Key Insights
+
+- **Behavioral Health** and **Primary Care** show the largest projected increases in spend under higher rate scenarios.
+- **Emergency Room** services show a potential decrease in spend, simulating a policy shift toward lower acute care reimbursement.
+- **Dental Services** remain flat, modeling a scenario with no rate adjustment.
+- Overall fiscal impact changes dynamically based on user-selected reimbursement rates.
 
 ---
 
-## ⚠️ Caveats and Assumptions  
-- The rate change scenarios are **illustrative only** and not based on actual policy.  
-- Utilization trends are **not included** in this version.  
-- This model uses **mock data** for demonstration and portfolio purposes only.
+## ✅ Recommendations
+
+- Use this dashboard to simulate future fiscal scenarios before proposing policy rate changes.
+- Incorporate utilization trends to model projected volume-based costs more accurately.
+- Leverage this tool to advocate for balanced rate adjustments in high-growth or high-cost areas.
 
 ---
+
+## ⚠️ Caveats and Assumptions
+
+- This model uses **mock data** and does not reflect actual Medicaid plan spend.
+- **Rate changes are illustrative only** and not based on current policy proposals.
+- Utilization volume, population growth, and seasonal trends are not reflected in this prototype.
 
